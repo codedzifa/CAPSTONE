@@ -20,7 +20,7 @@ DIRPATH = os.path.dirname(os.path.realpath(__file__))
 ml_core_fp = os.path.join(DIRPATH, "ML Components", "ML_Model.pkl")
 ml_components_dict = load_components_func(fp=ml_core_fp)
 
-# Defining the variables for each component
+# Defining the variables for each component_
 scaler = ml_components_dict['scaler']
 model = ml_components_dict['model']
 
