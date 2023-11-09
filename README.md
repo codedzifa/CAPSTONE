@@ -12,4 +12,4 @@ This solution will help Expresso to better serve their customers by understandin
 2. Newton Kimathi
 3. Ebenezer Fiifi Abassah-Konadu
 4. Samuel Amoako Boateng
-5. Jean Plaubert Rukondou
+5. Jean Plaubert Rukundo
