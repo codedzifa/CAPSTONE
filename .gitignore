@@ -1,6 +1,9 @@
-
 Train.csv
 archives
 .ipynb_checkpoints
 venv
+<<<<<<< HEAD
 catboost_info
+=======
+catboost_info
+>>>>>>> b6ea34b3ce374595f1f62b8eb2ec8da44aa61753
